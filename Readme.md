@@ -1,6 +1,7 @@
-# Mahmoud Mousa - Data Science & Machine Learning Portfolio #
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudmousa-ds)  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudmousa-ds)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudmosaadmousa@gmail.com)  
+# Mahmoud Mousa - Data Science & Machine Learning Portfolio # 
+[Visit My Portfolio for better visualization](https://mahmoudmousa-ds.github.io/portfolio)
+ 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=globe&logoColor=white)](https://mahmoudmousa-ds.github.io/portfolio)[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoudmousa-ds)[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mahmoudmousa-ds)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudmosaadmousa@gmail.com)
 ---
 
 Welcome to my portfolio! I'm a **Data Scientist & Machine Learning Engineer** passionate about building data-driven solutions. Here, you'll find projects showcasing my skills in **Machine Learning, Data Analytics, Business Intelligence, and Data Engineering**.
