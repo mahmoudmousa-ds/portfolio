@@ -25,7 +25,7 @@ Welcome to my portfolio! I'm a **Data Scientist & Machine Learning Engineer** pa
 
 - **[Starbucks Capstone Challenge](https://github.com/mahmoudmousa-ds/Starbucks-Capstone-Challenge)**  
   Analyzed customer behavior & optimized promotional offers using machine learning.
-- **[Flight Delays Prediction](#)**  
+- **[Flight Delays Prediction](https://github.com/mahmoudmousa-ds/flight_delay_prediction)**  
   Built predictive models to estimate airline delay probabilities.
 
 ---
