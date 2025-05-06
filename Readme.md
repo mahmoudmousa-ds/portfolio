@@ -47,7 +47,7 @@ Welcome to my portfolio! I'm a **Data Scientist & Machine Learning Engineer** pa
 
 
 #### 📊 **Power BI**
-- **[End-to-End Data Analysis Project(POWER BI & TSQL)]([https://github.com/mahmoudmousa-ds/Data-Analytics-Visualization/tree/main/Analysis%20by%20Power%20BI/Sales-Analysis-Power-BI](https://github.com/mahmoudmousa-ds/End-to-End-Data-Analysis-Project))**  
+- **[End-to-End Data Analysis Project(POWER BI & TSQL)](https://github.com/mahmoudmousa-ds/End-to-End-Data-Analysis-Project)**  
 This project involves end-to-end data handling, from data scraping and organization to building an interactive dashboard using Power BI. The goal is to manage workforce data, assess financial risks, and monitor project health effectively.
 - **[Sales & Customer Analytics](https://github.com/mahmoudmousa-ds/Data-Analytics-Visualization/tree/main/Analysis%20by%20Power%20BI/Sales-Analysis-Power-BI)**  
 This project is implemented using Power BI to analyze sales data. The goal is to provide insights into sales trends, revenue, and key performance indicators (KPIs) to support data-driven decision-making.
